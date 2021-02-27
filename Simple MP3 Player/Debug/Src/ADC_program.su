@@ -1,0 +1,3 @@
+ADC_program.c:21:6:MADC_voidInit	16	static
+ADC_program.c:43:6:MADC_voidEnableChannel	16	static
+ADC_program.c:74:4:MADC_voidRead	16	static

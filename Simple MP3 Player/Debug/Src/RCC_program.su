@@ -1,0 +1,4 @@
+RCC_program.c:17:6:MRCC_voidInit	16	static
+RCC_program.c:136:6:MRCC_voidEnablePeripheralClock	16	static
+RCC_program.c:153:6:MRCC_voidDisablePeripheralClock	16	static
+RCC_program.c:171:6:MRCC_voidSetADCScaller	16	static
